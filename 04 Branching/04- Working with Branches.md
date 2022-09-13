@@ -39,7 +39,7 @@ git branch -m bugfix bugfix-signup-form
 
 ## Commit to branch
 
-When we commit to a branch this branch moves forward and the **_main_** branch stays where it is, we can see that with `git log --oneline`. The **_HEAD_** pointer will be pointing to the new branch head of **_main_**.
+When we commit in this branch, this branch moves forward and the **_main_** branch stays where it is, we can see that with `git log --oneline`. The **_HEAD_** pointer will be pointing to the new branch  of  bugfix-signup-form, meaing we are working there
 
 ```zsh
 54bb974 (HEAD -> bugfix-signup-form) start new lesson
