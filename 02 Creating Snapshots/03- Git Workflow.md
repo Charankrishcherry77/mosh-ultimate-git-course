@@ -48,4 +48,5 @@ Date:   Sat Feb 27 23:15:48 2021 -0300
     First commit
 ```
 
-Unlike other VCS Git stores, in each commit, the full snapshot of the project. Other VCS only store deltas or what was changed. Git those these in a very efficient manner, compressing the content and it does not store duplicates.
+Unlike other VCS Git stores, in each commit, the full snapshot of the project. Other VCS only store deltas or what was changed. Git those these in a very efficient manner, compressing the content and it does not store duplicates.So we can restore any file version we need.
+
